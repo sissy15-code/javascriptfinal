@@ -95,7 +95,7 @@
 /// EJERCICIO 4
 
 //Escribe un script que me calcule en segundos el tiempo que dura 
-// una persona usando el sistema
+//una persona usando el sistema
 
 var tiempo = parseInt(prompt("Introduzca cuanto tiempo ha estado usando el sistema", 0));
 
